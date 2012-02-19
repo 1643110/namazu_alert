@@ -1,0 +1,11 @@
+smtp_settings:
+  port: 587
+  domain: "abc.domain.com"
+  server_name: "abc.server.com"
+  user_name: "Namazu kun"
+  user_address: "example@abc.com"
+  password: "example_password"  
+
+receiver:
+  user_name: "earthquake information"
+  user_address: "receiver@abc.com"

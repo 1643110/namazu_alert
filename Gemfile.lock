@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    tlsmail (0.0.1)
+    tmail (1.2.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  tlsmail
+  tmail

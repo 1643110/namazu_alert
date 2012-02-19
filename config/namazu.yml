@@ -1,0 +1,13 @@
+csv:
+  file_name: "data/namazu.csv"
+
+message:
+  introduction: "地震速報を受信しました。詳細はURL先を参照ください。"
+  detection_date: "発生日時："
+  intensity: "震度："
+  epicenter_location_name: "震源地："
+  magnitude: "マグニチュード："
+  epicenter_coor_lat: "緯度："
+  epicenter_coor_long: "経度："
+  url: "URL："
+  after_mentioned: "当情報は、「地震到達予報なまず」より取得しております。"
